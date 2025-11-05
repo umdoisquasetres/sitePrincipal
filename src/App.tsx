@@ -43,7 +43,7 @@ const App: React.FC = () => {
       <Services />
       <Testimonials />
       <Contact />
-      <Footer />
+      
     </div>
   );
 }

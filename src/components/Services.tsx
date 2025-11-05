@@ -6,7 +6,7 @@ const Services: React.FC = () => {
         <section id="services" className="services-section fade-in-section">
             <div className="container services-layout">
                 <div className="services-title-column">
-                    <h2>SOLUTIONS</h2>
+                    <h2>SOLUÇÕES</h2>
                 </div>
                 <div className="services-grid">
                     <div className="service-card">
