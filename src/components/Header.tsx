@@ -42,8 +42,8 @@ const Header: React.FC = () => {
         <header className={`header ${scrolled ? 'scrolled' : ''}`}>
             <div className="container">
                 <div className="logo">
-                    <h1>M.Y. SOLUÇÕES</h1>
-                    <p>PLC PROGRAMMING & AUTOMAÇÃO</p>
+                    <h1>M.Y. SOLUÇÕES INDUSTRIAIS</h1>
+                    <p>PROGRAMAÇÃO DE CLP & AUTOMAÇÃO INDUSTRIAL</p>
                 </div>
                 <nav className={`navigation ${menuActive ? 'active' : ''}`}>
                     <a href="#home" className="active" onClick={handleLinkClick}>Home</a>
