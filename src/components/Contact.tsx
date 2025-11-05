@@ -21,9 +21,9 @@ const Contact: React.FC = () => {
                         <p><i className="fas fa-phone"></i> (11) 98765-4321</p>
                         <p><i className="fas fa-envelope"></i> contato@mysolucoes.com</p>
                         <div className="social-media">
-                            <a href="#"><i className="fab fa-linkedin"></i></a>
-                            <a href="#"><i className="fab fa-facebook"></i></a>
-                            <a href="#"><i className="fab fa-instagram"></i></a>
+                            <a href="#!"><i className="fab fa-linkedin"></i></a>
+                            <a href="#!"><i className="fab fa-facebook"></i></a>
+                            <a href="#!"><i className="fab fa-instagram"></i></a>
                         </div>
                     </div>
                 </div>
