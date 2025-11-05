@@ -7,9 +7,9 @@ const Hero: React.FC = () => {
             <div className="container">
                 <div className="hero-content">
                     <div className="hero-logo-small">M.Y.</div>
-                    <h2>PLC Programming & Automação</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-                    <a href="#contact" className="btn-outline">Contact Us</a>
+                    <h2>PROGRAMAÇÃO DE CLP & AUTOMAÇÃO INDUSTRIAL</h2>
+                    <p>M.Y Soluções Industriais | Especialista em Controle de Movimento (Motion Control). Soluções em Programação de CLP e Parametrização de Inversores de Frequência. Aumente a eficiência da sua indústria.</p>
+                    <a href="#contact" className="btn-outline">Fale conosco</a>
                 </div>
             </div>
         </main>
