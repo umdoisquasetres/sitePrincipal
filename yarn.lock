@@ -1213,6 +1213,11 @@
   resolved "https://registry.yarnpkg.com/@csstools/selector-specificity/-/selector-specificity-2.2.0.tgz#2cbcf822bf3764c9658c4d2e568bd0c0cb748016"
   integrity sha512-+OJ9konv95ClSTOJCmMZqpd5+YGsB2S+x6w3E1oaM8UuR5j8nTNHYSz8c9BEPGDOCMQYIEEGlVPj/VY64iTbGw==
 
+"@emailjs/browser@^4.4.1":
+  version "4.4.1"
+  resolved "https://registry.yarnpkg.com/@emailjs/browser/-/browser-4.4.1.tgz#ad5684af5a912c0ab415202184845eb3270c4c81"
+  integrity sha512-DGSlP9sPvyFba3to2A50kDtZ+pXVp/0rhmqs2LmbMS3I5J8FSOgLwzY2Xb4qfKlOVHh29EAutLYwe5yuEZmEFg==
+
 "@eslint-community/eslint-utils@^4.2.0":
   version "4.9.0"
   resolved "https://registry.yarnpkg.com/@eslint-community/eslint-utils/-/eslint-utils-4.9.0.tgz#7308df158e064f0dd8b8fdb58aa14fa2a7f913b3"
@@ -3990,6 +3995,11 @@ electron-to-chromium@^1.5.238:
   version "1.5.245"
   resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.245.tgz#81aea81adf1e06b6f703b4b35ac6d543421d0fd9"
   integrity sha512-rdmGfW47ZhL/oWEJAY4qxRtdly2B98ooTJ0pdEI4jhVLZ6tNf8fPtov2wS1IRKwFJT92le3x4Knxiwzl7cPPpQ==
+
+emailjs@^4.0.3:
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/emailjs/-/emailjs-4.0.3.tgz#ea0a3bc67a9fa4f489cda739691b4644c5a48b75"
+  integrity sha512-1CDXoE3FxkSg7QRTlLsDCYG9elFNu/JQsYWu3Xfrk77ubbg5zYgFGg+JRUKQJ56mceM8o3rHHX0VB4wo9XsyLQ==
 
 emittery@^0.10.2:
   version "0.10.2"
