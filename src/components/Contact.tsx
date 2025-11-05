@@ -11,11 +11,18 @@ const Contact: React.FC = () => {
         if (form.current) {
             emailjs.sendForm('service_atubpne', 'template_gnu784l', form.current, 'RcKh7QKDyx67NiykZ')
                 .then((result) => {
-                    console.log(result.text);
+                    console.log('Client confirmation sent:', result.text);
+                }, (error) => {
+                    console.log('Error sending client confirmation:', error.text);
+                });
+
+            emailjs.sendForm('service_atubpne', 'template_ptpn6vf', form.current, 'RcKh7QKDyx67NiykZ')
+                .then((result) => {
+                    console.log('Message received by user:', result.text);
                     alert('Mensagem enviada com sucesso!');
                     form.current?.reset();
                 }, (error) => {
-                    console.log(error.text);
+                    console.log('Error sending message to user:', error.text);
                     alert('Ocorreu um erro ao enviar a mensagem. Tente novamente mais tarde.');
                 });
         }
