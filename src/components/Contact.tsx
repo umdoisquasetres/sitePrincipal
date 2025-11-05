@@ -39,9 +39,8 @@ const Contact: React.FC = () => {
                         <p><i className="fas fa-phone"></i> (11) 96948-6481</p>
                         <p><i className="fas fa-envelope"></i> matheus@mysolucoesindcombr.com</p>
                         <div className="social-media">
-                            <a href="#!"><i className="fab fa-linkedin"></i></a>
-                            <a href="#!"><i className="fab fa-facebook"></i></a>
-                            <a href="#!"><i className="fab fa-instagram"></i></a>
+                            <a href="https://www.facebook.com/profile.php?id=61581325265733"><i className="fab fa-facebook"></i></a>
+                            <a href="https://www.instagram.com/m.ysolucoes/"><i className="fab fa-instagram"></i></a>
                         </div>
                     </div>
                 </div>
