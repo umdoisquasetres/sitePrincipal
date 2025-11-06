@@ -375,3 +375,13 @@ section:nth-of-type(odd) {
         grid-template-columns: 1fr;
     }
 }
+
+@media (max-width: 480px) {
+    .hero-content h2 {
+        font-size: 28px;
+    }
+
+    .service-card {
+        padding: 30px;
+    }
+}
